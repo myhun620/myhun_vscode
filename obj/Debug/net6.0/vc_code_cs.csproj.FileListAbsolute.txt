@@ -1,0 +1,17 @@
+D:\vc_code_cs\bin\Debug\net6.0\vc_code_cs.exe
+D:\vc_code_cs\bin\Debug\net6.0\vc_code_cs.deps.json
+D:\vc_code_cs\bin\Debug\net6.0\vc_code_cs.runtimeconfig.json
+D:\vc_code_cs\bin\Debug\net6.0\vc_code_cs.dll
+D:\vc_code_cs\bin\Debug\net6.0\vc_code_cs.pdb
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.csproj.AssemblyReference.cache
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.AssemblyInfoInputs.cache
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.AssemblyInfo.cs
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.csproj.CoreCompileInputs.cache
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.dll
+D:\vc_code_cs\obj\Debug\net6.0\refint\vc_code_cs.dll
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.pdb
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.genruntimeconfig.cache
+D:\vc_code_cs\obj\Debug\net6.0\ref\vc_code_cs.dll
+D:\vc_code_cs\bin\Debug\net6.0\System.Windows.Forms.dll
+D:\vc_code_cs\obj\Debug\net6.0\vc_code_cs.csproj.CopyComplete
